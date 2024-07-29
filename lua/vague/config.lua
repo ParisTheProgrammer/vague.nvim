@@ -93,6 +93,7 @@ local DEFAULT_SETTINGS = {
     func = "#be8c8c",
     string = "#deb896",
     number = "#d2a374",
+    line_number = "#5f5f71",
     property = "#c7c7d4",
     constant = "#b4b4ce",
     parameter = "#b9a3ba",
